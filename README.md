@@ -1,5 +1,9 @@
 # E-Commerce MERN Stack
 
+## Source
+client - https://shopify02.netlify.app/
+server - https://shopify-1fkb.onrender.com
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
