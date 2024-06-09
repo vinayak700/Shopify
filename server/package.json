@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Shopify_Ecommerce"
+    "url": "https://github.com/vinayak700/shopify"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "vinayak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Shopify_Ecommerce/issues"
+    "url": "https://github.com/vinayak700/shopify/issues"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Shopify_Ecommerce#readme",
+  "homepage": "https://github.com/vinayaky700/shopify",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
